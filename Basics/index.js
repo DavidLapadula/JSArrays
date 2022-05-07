@@ -6,7 +6,7 @@
 let arr1 = [];
 let arr2 = [1, 2, 3, true, "item", { key: "value" }, [3, 4]];
 
-// constructor
+// constructor - static methods available on constructor, other methods are inherited for each instance
 let arr3 = new Array();
 let arr4 = new Array(10); //set length, can do with only commas using literal like [,,,,,] 
 let arr5 = new Array(1, 2, 3, 4, true);
