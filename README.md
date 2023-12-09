@@ -1,5 +1,5 @@
 # JSArrays
-Course covering the fundamentals of JavaScript Arrays
+Course covering the fundamentals of JavaScript Arrays. 
 
 
 ## Topics Included
